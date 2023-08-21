@@ -1,7 +1,7 @@
-# dotfiles
+##dotfiles
 dotfiles for neovim, alacritty, tmux, and zshrc
 
-# Neovim install for linux
+## Neovim install for linux
 This or get the app image from neovim repo.
 ```
 sudo apt-get install software-properties-common
