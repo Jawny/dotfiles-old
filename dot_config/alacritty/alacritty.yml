@@ -1,0 +1,22 @@
+import:
+  - ~/.config/alacritty/rose-pine.yml
+window:
+  opacity: 1
+font:
+  size: 12
+  normal:
+    style: Regular
+    family: "JetBrainsMono Nerd Font"
+
+  bold:
+    style: Bold
+    family: "JetBrainsMono Nerd Font"
+
+  italic:
+    style: Italic
+    family: "JetBrainsMono Nerd Font"
+window:
+  option_as_alt: Both
+key_bindings:
+  # remove the line below!
+  - { key: W, mods: Command, action: Quit }
