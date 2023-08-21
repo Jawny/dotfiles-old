@@ -1,4 +1,4 @@
-##dotfiles
+## dotfiles
 dotfiles for neovim, alacritty, tmux, and zshrc
 
 ## Neovim install for linux
