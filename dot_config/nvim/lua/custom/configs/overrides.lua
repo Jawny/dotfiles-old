@@ -35,6 +35,7 @@ M.mason = {
     "prettier",
 
     --django/python
+    "djlint",
     "pyright",
     "mypy",
     "ruff",
