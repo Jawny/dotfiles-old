@@ -5,6 +5,13 @@
 export ZSH="$HOME/.oh-my-zsh"
 export DENO_INSTALL="/home/johnnyliao/.deno"
 export PATH="$DENO_INSTALL/bin:$PATH"
+
+# python stuff
+export WORKON_HOME=$HOME/.virtualenvs
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+export VIRTUALENVWRAPPER_VIRTUALENV_ARGS=' -p /usr/bin/python3 '
+export PROJECT_HOME=$HOME/Devel
+source /usr/local/bin/virtualenvwrapper.sh
 # alias
 eval $(thefuck --alias fuck)
 # Set name of the theme to load --- if set to "random", it will
