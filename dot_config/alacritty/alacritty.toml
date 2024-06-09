@@ -1,0 +1,28 @@
+import = [
+  # uncomment the flavour you want below:
+  # "~/.config/alacritty/catppuccin-latte.toml"
+  # "~/.config/alacritty/catppuccin-frappe.toml"
+  "~/.config/alacritty/catppuccin-macchiato.toml"
+  # "~/.config/alacritty/catppuccin-mocha.toml"
+  # "~/.config/alacritty/rose-pine.toml"
+  # "~/.config/alacritty/rose-pine-dawn.toml"
+  # "~/.config/alacritty/rose-pine-moon.toml"
+]
+
+[window]
+opacity = 1
+
+[font]
+size = 12
+
+  [font.normal]
+  style = "Regular"
+  family = "JetBrainsMono Nerd Font"
+
+  [font.bold]
+  style = "Bold"
+  family = "JetBrainsMono Nerd Font"
+
+  [font.italic]
+  style = "Italic"
+  family = "JetBrainsMono Nerd Font"
