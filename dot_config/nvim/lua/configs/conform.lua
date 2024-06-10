@@ -8,7 +8,7 @@ local options = {
     json = { { "prettierd", "prettier" } },
     html = { { "prettierd", "prettier" } },
     css = { { "prettierd", "prettier" } },
-    python = { "black", "flake8" },
+    python = { "black" },
   },
 
   format_on_save = {

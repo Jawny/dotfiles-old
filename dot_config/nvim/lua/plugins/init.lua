@@ -52,6 +52,7 @@ return {
         "tailwindcss-language-server",
         "black",
         "flake8",
+        "pylint",
         "pyright",
         "eslint-lsp",
         "stylua",
